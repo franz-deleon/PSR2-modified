@@ -25,7 +25,7 @@
  * @version   Release: 1.4.3
  * @link      http://pear.php.net/package/PHP_CodeSniffer
  */
-class PSR2_Sniffs_ControlStructures_SwitchDeclarationSniff implements PHP_CodeSniffer_Sniff
+class PSR2-Modified_Sniffs_ControlStructures_SwitchDeclarationSniff implements PHP_CodeSniffer_Sniff
 {
 
 
